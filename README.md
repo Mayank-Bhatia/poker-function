@@ -5,3 +5,16 @@ Here's what it does: give it two numbers, one for the number of decks you'd like
 for the number of players (between 2 and 2000). The poker function will then return the winning hand!
 
 Note: This function assumes a 5 card hand.
+
+Rankings used from highest to lowest:
+
+Five of a kind
+Straight Flush
+Four of a Kind
+Full House
+Flush
+Straight
+Three of a Kind
+Two Pair
+One Pair
+High Card
