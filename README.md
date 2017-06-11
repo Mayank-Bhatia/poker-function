@@ -8,13 +8,13 @@ Note: This function assumes a 5 card hand.
 
 Rankings used from highest to lowest:
 
-Five of a kind
-Straight Flush
-Four of a Kind
-Full House
-Flush
-Straight
-Three of a Kind
-Two Pair
-One Pair
+Five of a kind <br>
+Straight Flush <br>
+Four of a Kind <br>
+Full House <br>
+Flush <br>
+Straight <br>
+Three of a Kind <br>
+Two Pair <br> 
+One Pair <br>
 High Card
