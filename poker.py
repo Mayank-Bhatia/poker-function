@@ -14,7 +14,7 @@ than = 'Go again, or q to quit.'
 it = '\n' 'These are the cards dealt: ' '\n' '\n'
 should = '\n' '\n' "And here's the winner!: " '\n' '\n'
 have = '\n' 'You win...'
-heh = '\n' 'ANOTHER CHANCE TO PLAY!!! :D :D :D'
+heh = '\n' '...ANOTHER CHANCE TO PLAY!!! :D :D :D'
 
 def best(hands):
     'From a set of hands, picks the list of hands with the highest poker rank.'
