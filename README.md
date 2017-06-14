@@ -21,7 +21,7 @@ High Card
 
 Here's a sample playthough (inpur prompts in bold):
 
-*p-p-p-poker function.
+*p-p-p-poker function.*
 
 *Here's what it does: give it two numbers, one for the number of
 decks you'd like to play with (between 1 and 100), and another
