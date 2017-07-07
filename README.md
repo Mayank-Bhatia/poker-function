@@ -19,7 +19,7 @@ Two Pair <br>
 One Pair <br>
 High Card
 
-Here's a sample playthough (inpur prompts in bold):
+Here's a sample playthough (input prompts in bold):
 
 *p-p-p-poker function.*
 
