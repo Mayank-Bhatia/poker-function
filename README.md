@@ -30,8 +30,8 @@ will then return the winning hand!*
 
 *Note: This function assumes a 5 card hand.*
 
-**Number of decks (1-100): 4
-Number of players (2-2000): 20**
+**Number of decks (1-100): 4** <br>
+**Number of players (2-2000): 20**
 
 *These are the cards dealt:* 
 
